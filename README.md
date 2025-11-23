@@ -1,6 +1,3 @@
-# cap-via-oficial
-Branding oficial CAP VIA – VIA Sistemas Digitales
-
 # CAP VIA – IA mentora de la Misión VIA
 
 ![CAP VIA tomando mate en la cabina del desierto](./img/CAP_VIA_MATE_OFICIAL.png)
@@ -56,4 +53,10 @@ Próximos pasos previstos a partir de este repo:
 La imagen y el concepto de **CAP VIA** forman parte de la marca personal y proyecto **VIA Sistemas Digitales**.
 
 - Uso permitido para: documentación personal, portfolio y demostraciones del autor.  
-- Uso no autorizado: reprodu
+- Uso no autorizado: reproducción comercial, reventa o uso de marca sin permiso explícito.
+
+Si te interesa este tipo de trabajo (IA aplicada, branding, back-end + storytelling), podés contactarme por LinkedIn:
+
+**JP Serra – VIA Sistemas Digitales**  
+[Aduanero + IA + Back-End + Historias digitales]   (https://www.linkedin.com/in/IAjujuy/)
+
